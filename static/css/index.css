@@ -1,0 +1,35 @@
+hmtl, body {
+    height: 100%;
+    width: 100%;
+    background-color: wheat;
+    overflow: hidden;
+    margin: 0%;
+}
+
+
+
+.container {
+    display: flex;
+    gap: 200px;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.form-container {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+}
+
+.main-image {
+
+    height: 1200px;
+    width: 900px;
+
+}
+
+#main-Form {
+    margin: auto;
+}
