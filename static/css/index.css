@@ -104,6 +104,14 @@ input[type=text], [type=email]:hover {
 }
 
 .footer-text {
+    display: flex;
+    align-items: center;
+    gap: 10px;
     font-family: Poppins, sans-serif;
     color: aliceblue;
+}
+
+.icon {
+    height: 30px;
+    width: 30px;
 }
